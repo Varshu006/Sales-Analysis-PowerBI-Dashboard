@@ -4,7 +4,8 @@
 An interactive Power BI dashboard created to analyze sales metrics, order details, and product performance using retail dataset.
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](Sales%20Analysis%20Dashboard.png)
+<img width="1291" height="671" alt="Screenshot 2026-08-16 230220" src="https://github.com/user-attachments/assets/0a4c5d36-889a-4dfc-adac-d1a568f60a4b" />
+
 
 ## 🔑 Key Insights & Features
 * **Key Performance Indicators (KPIs):** Total Sales ($1.08M), Total Orders (4.922K), and Average Sales per Order ($220.01).
