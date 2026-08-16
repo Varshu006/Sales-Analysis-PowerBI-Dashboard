@@ -1,20 +1,17 @@
-# Sales-Analysis-PowerBI-Dashboard
-Interactive Power BI dashboard analyzing sales data, KPIs, and trends.
 # 📊 Sales Analysis Dashboard (Power BI)
 
-## 📌 Executive Summary
-An interactive Power BI dashboard designed to analyze overall sales performance, order metrics, and category trends.
+## 📌 Project Overview
+An interactive Power BI dashboard created to analyze sales metrics, order details, and product performance using retail dataset.
 
 ## 📸 Dashboard Preview
-<img width="1291" height="671" alt="Screenshot 2026-08-16 230220" src="https://github.com/user-attachments/assets/1307dd33-226f-4ed9-9fdd-8fd45dbaa08b" />
-
+![Dashboard Preview](Sales%20Analysis%20Dashboard.png)
 
 ## 🔑 Key Insights & Features
-* **KPI Trackers:** Total Sales ($1.08M), Total Orders (4.922K), and Average Sales ($220.01).
-* **Category Performance:** Technology leads as the top-performing sales category.
-* **Dynamic Filters:** Interactive region and segment slicers for real-time data exploration.
-* **Trend Analysis:** Month-wise and yearly sales trend visualization.
+* **Key Performance Indicators (KPIs):** Total Sales ($1.08M), Total Orders (4.922K), and Average Sales per Order ($220.01).
+* **Category Performance:** Technology generates the highest sales revenue among product categories.
+* **Dynamic Interactivity:** Integrated Slicers (Region, Segment) that filter the entire dashboard in real time.
+* **Trend Analysis:** Yearly and monthly sales trends visualized with interactive line charts.
 
-## 🛠️ Tools Used
-* **Power Query:** Data Transformation & Cleaning
-* **Power BI Desktop:** DAX Metrics, Data Modeling, & Visualization
+## 🛠️ Tech Stack & Skills
+* **Data Cleaning & Transformation:** Power Query
+* **Data Visualization & Analytics:** Power BI Desktop, DAX
